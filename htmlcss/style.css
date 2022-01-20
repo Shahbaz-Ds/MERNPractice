@@ -1,0 +1,19 @@
+/* table,
+th,
+td {
+  border: 1px solid black;
+} */
+
+.symbian {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.android {
+  border: 2px solid orange;
+}
+
+.nokia {
+  border: orange 2px;
+  border-collapse: collapse;
+}
